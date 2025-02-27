@@ -1,32 +1,3 @@
-# Test Case Repository
-
-## Overview
-This repository contains well-documented test cases for various types of software testing, including functional, API, SQL, and GUI testing. It also includes sample bug reports and best practices for test documentation.
-
-## Repository Structure
-```
-Test-Case-Repository/
-│── Functional-Testing/
-│   ├── Test-Cases-Web-Application.md
-│   ├── Test-Cases-Mobile-App.md
-│── API-Testing/
-│   ├── Postman-Collections/
-│   ├── API-Test-Cases.md
-│── SQL-Testing/
-│   ├── SQL-Test-Cases.md
-│── GUI-Testing/
-│   ├── UI-Test-Scenarios.md
-│── Bug-Reports/
-│   ├── Sample-Bug-Report.md
-│── README.md
-```
-
-## How to Use This Repository
-1. Navigate to the relevant folder based on the type of testing you need.
-2. Each folder contains structured test cases that you can use or modify.
-3. The bug report section provides sample formats for reporting defects effectively.
-4. Contributions and improvements are welcome!
-
 ## Functional Test Cases
 
 ### **1. Login Functionality**
