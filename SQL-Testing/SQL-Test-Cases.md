@@ -1,15 +1,5 @@
 # SQL Test Cases Documentation
 
-## Table of Contents
-1. [Verify Data Retrieval for Valid Query](#verify-data-retrieval-for-valid-query)
-2. [Verify Data Insertion](#verify-data-insertion)
-3. [Verify Data Update](#verify-data-update)
-4. [Verify Data Deletion](#verify-data-deletion)
-5. [Verify Constraints Enforcement (Unique Constraint)](#verify-constraints-enforcement-unique-constraint)
-6. [Verify Not Null Constraint](#verify-not-null-constraint)
-7. [Verify Data Integrity with Foreign Key Constraints](#verify-data-integrity-with-foreign-key-constraints)
-8. [Verify Index Performance](#verify-index-performance)
-
 ---
 
 ## **1. Verify Data Retrieval for Valid Query**
