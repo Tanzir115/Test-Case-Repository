@@ -1,20 +1,7 @@
 # API Test Cases Documentation
 
-## Table of Contents
-1. [Test Case 1: Verify API Endpoint Availability](#test-case-1-verify-api-endpoint-availability)
-2. [Test Case 2: Verify Valid Response Format](#test-case-2-verify-valid-response-format)
-3. [Test Case 3: Verify API Response Time](#test-case-3-verify-api-response-time)
-4. [Test Case 4: Verify API Response for Valid Data](#test-case-4-verify-api-response-for-valid-data)
-5. [Test Case 5: Verify API Response for Invalid Data](#test-case-5-verify-api-response-for-invalid-data)
-6. [Test Case 6: Verify API Response for Missing Mandatory Parameters](#test-case-6-verify-api-response-for-missing-mandatory-parameters)
-7. [Test Case 7: Verify API Authentication](#test-case-7-verify-api-authentication)
-8. [Test Case 8: Verify API Rate Limiting](#test-case-8-verify-api-rate-limiting)
-9. [Test Case 9: Verify API Data Update (PUT/PATCH)](#test-case-9-verify-api-data-update-putpatch)
-10. [Test Case 10: Verify API Data Deletion (DELETE)](#test-case-10-verify-api-data-deletion-delete)
 
----
-
-## Test Case 1: Verify API Endpoint Availability
+### **Test Case 1: Verify API Endpoint Availability**
 ```
 - **Test Case ID**: TC_API_001
 - **Objective**: Ensure the API endpoint is accessible.
@@ -26,7 +13,7 @@
 ```
 ---
 
-## Test Case 2: Verify Valid Response Format
+### **Test Case 2: Verify Valid Response Format**
 ```
 - **Test Case ID**: TC_API_002
 - **Objective**: Ensure the API returns the correct data format (e.g., JSON, XML).
@@ -39,7 +26,7 @@
 ```
 ---
 
-## Test Case 3: Verify API Response Time
+### **Test Case 3: Verify API Response Time**
 ```
 - **Test Case ID**: TC_API_003
 - **Objective**: Ensure the API response time is within acceptable limits.
@@ -52,7 +39,7 @@
 ```
 ---
 
-## Test Case 4: Verify API Response for Valid Data
+### **Test Case 4: Verify API Response for Valid Data**
 ```
 - **Test Case ID**: TC_API_004
 - **Objective**: Ensure the API responds with valid data for correct input.
@@ -64,7 +51,7 @@
 ```
 ---
 
-## Test Case 5: Verify API Response for Invalid Data
+### **Test Case 5: Verify API Response for Invalid Data**
 ```
 - **Test Case ID**: TC_API_005
 - **Objective**: Ensure the API handles invalid input gracefully.
@@ -76,7 +63,7 @@
 ```
 ---
 
-## Test Case 6: Verify API Response for Missing Mandatory Parameters
+### **Test Case 6: Verify API Response for Missing Mandatory Parameters**
 ```
 - **Test Case ID**: TC_API_006
 - **Objective**: Ensure the API returns an error when required parameters are missing.
@@ -88,7 +75,7 @@
 ```
 ---
 
-## Test Case 7: Verify API Authentication
+### **Test Case 7: Verify API Authentication**
 ```
 - **Test Case ID**: TC_API_007
 - **Objective**: Ensure the API requires and handles authentication correctly.
@@ -101,7 +88,7 @@
 ```
 ---
 
-## Test Case 8: Verify API Rate Limiting
+### **Test Case 8: Verify API Rate Limiting**
 ```
 - **Test Case ID**: TC_API_008
 - **Objective**: Ensure the API has proper rate limiting.
@@ -113,7 +100,7 @@
 ```
 ---
 
-## Test Case 9: Verify API Data Update (PUT/PATCH)
+### **Test Case 9: Verify API Data Update (PUT/PATCH)**
 ```
 - **Test Case ID**: TC_API_009
 - **Objective**: Ensure the API correctly updates data when using PUT or PATCH.
@@ -126,7 +113,7 @@
 ```
 ---
 
-## Test Case 10: Verify API Data Deletion (DELETE)
+### **Test Case 10: Verify API Data Deletion (DELETE)**
 ```
 - **Test Case ID**: TC_API_010
 - **Objective**: Ensure the API correctly deletes data when using DELETE.
