@@ -1,7 +1,7 @@
 
 ## GUI Test Cases
 
-### **1. Login Page UI
+### **1. Login Page UI**
 ```
 Test Case ID: TC_GUI_001  
 Title: Verify UI elements on the login page  
@@ -16,7 +16,7 @@ Steps to Execute:
 Expected Result: All elements should be properly aligned, visible, and responsive.  
 Status: Pass/Fail  
 ```
-### **2. Button Alignment and Styling**
+### 2. Button Alignment and Styling**
 ```
 Test Case ID: TC_GUI_002  
 Title: Verify button alignment and styling  
@@ -101,7 +101,7 @@ Steps to Execute:
 Expected Result: The page should load within 3-5 seconds on a standard connection.  
 Status: Pass/Fail  
 ```
-### **8. Dark Mode/Light Mode Toggle
+### **8. Dark Mode/Light Mode Toggle**
 ```
 Test Case ID: TC_GUI_008  
 Title: Verify dark mode and light mode toggle  
