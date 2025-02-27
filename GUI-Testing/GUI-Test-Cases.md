@@ -143,5 +143,10 @@ Steps to Execute:
 Expected Result: The modal should display correctly and function as expected.  
 Status: Pass/Fail
 ```
+## Contribution
+If you want to add more test cases, please follow the existing format and create a pull request.
+
+## Contact
+For any queries, reach out to **Tanzirul Islam** via [LinkedIn](https://LinkedIn.com/in/tanzirulshafin).
 
 
