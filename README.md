@@ -8,7 +8,6 @@ This repository contains well-documented test cases for various types of softwar
 Test-Case-Repository/
 │── Functional-Testing/
 │   ├── Test-Cases-Web-Application.md
-│   ├── Test-Cases-Mobile-App.md
 │── API-Testing/
 │   ├── Postman-Collections/
 │   ├── API-Test-Cases.md
@@ -16,8 +15,6 @@ Test-Case-Repository/
 │   ├── SQL-Test-Cases.md
 │── GUI-Testing/
 │   ├── UI-Test-Scenarios.md
-│── Bug-Reports/
-│   ├── Sample-Bug-Report.md
 │── README.md
 ```
 
